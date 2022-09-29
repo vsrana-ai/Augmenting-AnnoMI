@@ -1,7 +1,7 @@
 ## Data Augmentation for Reliability and Fairness in Counselling Quality Classification based on Anno-MI 
 
 ```
-This repository contains the source code of the project and the synthetic datasets generated from Anno-MI [Link](https://github.com/vsrana-ai/AnnoMI)
+This repository contains the source code of the project and the synthetic datasets generated from Anno-MI
 ```
 
 ### Datasets Generated 
@@ -24,9 +24,9 @@ Microsoft FairLearn
 
 ### Publication (Confernce IJCAI - SDAIH) 
 #### Data Augmentation for Reliability and Fairness in Counselling Quality Classification 
-URL: TBS
+URL: TBW
 
 Cite as :
 ``` 
-TBS
+TBW
 ``` 
