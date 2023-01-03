@@ -11,7 +11,7 @@ session transcriptions distributed over 44 topics (including smoking cessation, 
 
 ```2. Anno-AugMI ``` : Consisting of all the therapist utterances from Anno-MI, augmented in order to balance quality proportion. Anno-AugMI creation proceeds in a topic-agnostic fashion, with the goal of obtaining a roughly balanced amount of HQ-MI and LQ-MI utterances across the entire dataset.
 
-```3. Anno-AugMI ``` : Consisting of all the therapist utterances from Anno-MI, augmented to balance therapy quality proportion with respect to MI-topic. Anno-FairMI creation proceeds in a topic-aware fashion, with the goal of having the same amount of HQ-MI and LQ-MI utterances for each MI-topic.
+```3. Anno-FairMI ``` : Consisting of all the therapist utterances from Anno-MI, augmented to balance therapy quality proportion with respect to MI-topic. Anno-FairMI creation proceeds in a topic-aware fashion, with the goal of having the same amount of HQ-MI and LQ-MI utterances for each MI-topic.
 
 
 ### Requirements
