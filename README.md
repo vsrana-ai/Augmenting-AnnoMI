@@ -26,7 +26,9 @@ Microsoft FairLearn
 #### Data Augmentation for Reliability and Fairness in Counselling Quality Classification 
 URL: https://www.scitepress.org/Papers/2022/115314/115314.pdf 
 
-Cite as (BibTex): @conference{sdaih23,
+Cite as (BibTex): 
+```bash
+@conference{sdaih23,
 author={Vivek Kumar. and Simone Balloccu. and Zixiu Wu. and Ehud Reiter. and Rim Helaoui. and Diego Recupero. and Daniele Riboni.},
 title={Data Augmentation for Reliability and Fairness in Counselling Quality Classification},
 booktitle={Proceedings of the 1st Workshop on Scarce Data in Artificial Intelligence for Healthcare - SDAIH,},
@@ -37,6 +39,5 @@ organization={INSTICC},
 doi={10.5220/0011531400003523},
 isbn={978-989-758-629-3},
 }
-``` 
+```
 
-``` 
