@@ -22,7 +22,7 @@ PyTorch
 Microsoft FairLearn
 ```
 
-### Publication (Confernce IJCAI - SDAIH) 
+### Publication (Conference IJCAI - SDAIH) 
 #### Data Augmentation for Reliability and Fairness in Counselling Quality Classification 
 URL: https://www.scitepress.org/Papers/2022/115314/115314.pdf 
 
